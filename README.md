@@ -4,6 +4,9 @@ An AI-powered meeting assistant that converts **audio recordings into structured
 
 The application supports **audio upload or microphone recording**, automatically transcribes the meeting, normalizes financial terminology, and generates concise meeting minutes with decisions and tasks.
 
+## 🎥 Demo
+
+![AI Meeting Assistant Demo](assets/demo.gif)
 ---
 
 ## 🚀 Features
