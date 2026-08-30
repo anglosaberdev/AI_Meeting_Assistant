@@ -1,0 +1,26 @@
+**Meeting Minutes**  
+**Date:** [Insert Date]  
+**Time:** [Insert Time]  
+**Attendees:** John, Sarah  
+
+---
+
+### **Key Discussion Points**  
+- Decision to launch the new product **next Monday**.  
+- Assignment of tasks:  
+  - **John** will prepare the report.  
+  - **Sarah** will review the report.  
+
+---
+
+### **Decisions**  
+- Product launch date: **Next Monday** (specified).  
+- Task assignments: John (report preparation), Sarah (report review).  
+
+---
+
+### **Tasks**  
+- John: Prepare the report.  
+- Sarah: Review the report.  
+- Deadlines: Not specified for tasks.  
+- Owner: Not specified.
