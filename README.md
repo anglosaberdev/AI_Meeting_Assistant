@@ -6,7 +6,7 @@ The application supports **audio upload or microphone recording**, automatically
 
 ## 🎥 Demo
 
-![AI Meeting Assistant Demo](assets/demo.gif)
+![AI Meeting Assistant Demo](demo.png)
 ---
 
 ## 🚀 Features
